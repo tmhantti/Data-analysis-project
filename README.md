@@ -1,5 +1,5 @@
 # Data-analysis-project
-Project work for course "Introduction to Data Sciences"
+Project work for the course "Introduction to Data Sciences" (Tampere University, Spring 2023).
 <p> This exercise demonstrate some of the features of data analysis using Python + relevant packages. The analysed data consists of automated measurements carried out by <a href="https://en.ilmatieteenlaitos.fi/">Finnish Meteorological Institute</a> (FMI) in Helsinki. The data covers the year 2022.</p>
 <p> The goal of the exercise is to explore connections between variables related to meteorology and those related to air quality. In particular, the following question is addressed: can variables related to weather tell us something about air quality? <p>
 
